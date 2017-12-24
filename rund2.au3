@@ -1,0 +1,1 @@
+Run("game.exe -w -nofixaspect")
