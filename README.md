@@ -12,3 +12,6 @@ The game runs in windowed mode. This is not perfect, but it's still very playabl
 Enjoy :)
 
 ![alt text](https://i.imgur.com/Q7Viedb.jpg "Diablo 2 1.14D on ExaGear")
+
+# Tips
+If you know how to use AutoIT, you can also start regedit with this. Just change "game.exe" to "regedit" and rebuild the executable!
